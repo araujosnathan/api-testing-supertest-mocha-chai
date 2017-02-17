@@ -24,8 +24,8 @@ Let's understand  each file!
 
 # FILE: package.json
 
-In this file we have our signature and dependencies that project will need!
-Once that you have all dependencies in this file you just need to execute: 'npm install' to install them.
+In this file we have our signature and dependencies that project will need!</br>
+Once that you have all dependencies in this file you just need to execute: 'npm install' to install them.</br>
 This way is practice for exporting your project and you don't have a hard word for installing each dependency manually.
 
 # FILE: api-testing.js
