@@ -2,7 +2,7 @@
 
 Hey,
 
-Let's go to create a simple project for API Testing using Supertest + Mocha + Chai. </br>
+It's a simple project for API Testing using Supertest + Mocha + Chai. </br>
 First of all, you have downloading/clone this project for your PC and to install all dependencies. Okay?
 
 Do you have NODE installed? If not, you can know how to install in this link: https://nodejs.org/en/download/</br>
